@@ -1,6 +1,6 @@
 # Decentralized Tic-Tac-Toe
 
-![Project Screenshot](./src/assets/project-screenshot.png)
+![Project Screenshot](./assets/project-screenshot.png)
 A decentralised tic tac toe game built with Solidity.
 
 ## System Dependencies
